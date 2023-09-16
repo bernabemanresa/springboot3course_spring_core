@@ -1,0 +1,3 @@
+Inversion of control
+Outsourcing the constructionand managament of objects.
+ 
