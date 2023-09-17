@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>custom-app-properties</artifactId>
+	<artifactId>03-custom-app-properties</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>custom-app-properties</name>
 	<description>Demo project for Spring Boot</description>
